@@ -8,15 +8,6 @@
 - 🎓 **Cyber Security Student** (3rd Year) at **Cairo University, Egypt**  
 - 🛡️ **Penetration Tester** with strong expertise in **Web Application Security**  
 - 💼 **Vulnerability Analyst/Penetration Tester Intern** at **DEPI (Global Knowledge Company), Cairo**  
-- 📩 **Contact me:** [khaled.emam.official@gmail.com](mailto:khaled.emam.official@gmail.com)  
-
----
-
-## 🚀 **Currently Working On**  
-🔹 **Web Application Penetration Testing** – Finding and exploiting vulnerabilities in modern web apps.  
-🔹 **Bug Bounty Hunting** – Actively hunting for security flaws on various platforms.  
-🔹 **CTF Challenges** – Enhancing my skills through Capture The Flag competitions.  
-🔹 **Building Security Automation Tools** – Developing scripts to automate vulnerability scanning.  
 
 ---
 
@@ -55,5 +46,19 @@
   <img src="https://img.shields.io/badge/OWASP%20ZAP-F37C2B?style=for-the-badge&logo=zap&logoColor=white&logoWidth=20&labelColor=black&color=black&style=flat-square">
   <img src="https://img.shields.io/badge/Wireshark-00B2A9?style=for-the-badge&logo=wireshark&logoColor=white&logoWidth=20&labelColor=black&color=black&style=flat-square">
 </p>
+
+---
+
+## 📩 **Contact Me**  
+📧 **Email:** [khaled.emam.official@gmail.com](mailto:khaled.emam.official@gmail.com)  
+📍 **Location:** Cairo, Egypt  
+
+---
+
+## 🚀 **Currently Working On**  
+🔹 **Web Application Penetration Testing** – Finding and exploiting vulnerabilities in modern web apps.  
+🔹 **Bug Bounty Hunting** – Actively hunting for security flaws on various platforms.  
+🔹 **CTF Challenges** – Enhancing my skills through Capture The Flag competitions.  
+🔹 **Building Security Automation Tools** – Developing scripts to automate vulnerability scanning.  
 
 ---
