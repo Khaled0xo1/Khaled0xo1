@@ -4,10 +4,20 @@
 
 ---
 
+## 🎰 About Me  
+- 🎓 Third-year **Cyber Security Student** at Egyptian Cairo  University 
+- 🔒 **Penetration Tester** with sold knowledge in web application security.  
+- 💼 Currently interning as a **Vulnerability Analyst/Penetration Tester** at DEPI (Global Knowledge Company), Cairo, Egypt.  
+- 📧 Reach me at: [khaled.emam.official@gmail.com](khaled.emam.official@gmail.com)  
+
+---
+
 ## 🌐 Connect with Me    
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khaled-a-emam/)  
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1BMB6u6cYn/)  
 [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khaled.emam.official@gmail.com)
+
+
 
 ---
 
