@@ -53,10 +53,10 @@
 ---
 
 ## 🚀 **Currently Working On**  
-🔹 **Web Application Penetration Testing** – Finding and exploiting vulnerabilities in modern web apps.  
-🔹 **Bug Bounty Hunting** – Actively hunting for security flaws on various platforms.  
-🔹 **CTF Challenges** – Enhancing my skills through Capture The Flag competitions.  
-🔹 **Building Security Automation Tools** – Developing scripts to automate vulnerability scanning.  
+*
+*
+*
+
 
 ---
 
