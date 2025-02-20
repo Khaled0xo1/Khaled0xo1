@@ -58,3 +58,8 @@
 🔹 **CTF Challenges** – Enhancing my skills through Capture The Flag competitions.  
 🔹 **Building Security Automation Tools** – Developing scripts to automate vulnerability scanning.  
 
+---
+
+### 💡 *Need Help or Collaboration?*  
+🚀 I’m always open to discussions on **Cybersecurity, Penetration Testing, or Bug Bounty Hunting**!  
+💌 **Feel free to reach out anytime**—whether it's for a question, a project, or just a tech chat!  
