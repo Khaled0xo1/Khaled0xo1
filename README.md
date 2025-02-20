@@ -11,6 +11,13 @@
 - 📧 **Email:** [khaled.emam.official@gmail.com](mailto:khaled.emam.official@gmail.com)  
 - 📍 **Location:** Cairo, Egypt  
 
+---
+## 🌍 **Connect with Me**  
+<p align="center">
+  <a href="https://www.linkedin.com/in/khaled-a-emam/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20&labelColor=black&color=black&style=flat-square&logoWidth=20"></a>
+  <a href="https://www.facebook.com/share/1BMB6u6cYn/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&logoWidth=20&labelColor=black&color=black&style=flat-square&logoWidth=20"></a>
+  <a href="mailto:khaled.emam.official@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20&labelColor=black&color=black&style=flat-square&logoWidth=20"></a>
+</p>  
 
 ---
 
@@ -33,15 +40,6 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&logoWidth=20&labelColor=black&color=black&style=flat-square">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&logoWidth=20&labelColor=black&color=black&style=flat-square">
 </p>
-
---- 
-
-## 🌍 **Connect with Me**  
-<p align="center">
-  <a href="https://www.linkedin.com/in/khaled-a-emam/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20&labelColor=black&color=black&style=flat-square&logoWidth=20"></a>
-  <a href="https://www.facebook.com/share/1BMB6u6cYn/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&logoWidth=20&labelColor=black&color=black&style=flat-square&logoWidth=20"></a>
-  <a href="mailto:khaled.emam.official@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20&labelColor=black&color=black&style=flat-square&logoWidth=20"></a>
-</p>  
 
 ---
 
