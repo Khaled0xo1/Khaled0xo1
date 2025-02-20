@@ -20,6 +20,13 @@
 
 ---
 
+## 🎓 **Certifications**  
+- 📜 **Cisco CCNA** – Cisco Certified Network Associate  
+- 🔰 **Cisco CyberOps Associate** – Cybersecurity Operations  
+- 🏆 **Huawei HCIA Security** – Huawei Certified ICT Associate in Security  
+
+---
+
 ## 🌍 **Connect with Me**  
 <p align="center">
   <a href="https://www.linkedin.com/in/khaled-a-emam/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20&labelColor=black&color=black&style=flat-square&logoWidth=20"></a>
@@ -32,7 +39,6 @@
 ## 🛠️ **Languages & Tools**  
 
 ### **👨‍💻 Programming Languages**  
-
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&logoWidth=20&labelColor=black&color=black&style=flat-square">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&logoWidth=20&labelColor=black&color=black&style=flat-square">
@@ -42,8 +48,6 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&logoWidth=20&labelColor=black&color=black&style=flat-square">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&logoWidth=20&labelColor=black&color=black&style=flat-square">
 </p>
-
---- 
 
 ### **🛡️ Cyber Security Tools**  
 <p align="center">
